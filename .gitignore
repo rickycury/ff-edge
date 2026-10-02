@@ -1,0 +1,21 @@
+# Sleeper response cache — regenerable, and /players/nfl alone is ~14MB.
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Scratch
+*.tmp
+.DS_Store
+
+# Local tooling / personal
+.claude/
+.env
+
+# Third-party data exports (Flock) — not redistributable; see README
+data/*.csv

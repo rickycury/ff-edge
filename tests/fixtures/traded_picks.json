@@ -1,0 +1,436 @@
+[
+ {
+  "owner_id": 3,
+  "previous_owner_id": 1,
+  "roster_id": 1,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 3,
+  "previous_owner_id": 1,
+  "roster_id": 1,
+  "round": 7,
+  "season": "2025"
+ },
+ {
+  "owner_id": 3,
+  "previous_owner_id": 1,
+  "roster_id": 1,
+  "round": 9,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 9,
+  "roster_id": 2,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 9,
+  "roster_id": 2,
+  "round": 5,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 9,
+  "roster_id": 2,
+  "round": 11,
+  "season": "2025"
+ },
+ {
+  "owner_id": 4,
+  "previous_owner_id": 6,
+  "roster_id": 3,
+  "round": 3,
+  "season": "2025"
+ },
+ {
+  "owner_id": 4,
+  "previous_owner_id": 6,
+  "roster_id": 3,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 1,
+  "previous_owner_id": 3,
+  "roster_id": 3,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 1,
+  "previous_owner_id": 3,
+  "roster_id": 3,
+  "round": 7,
+  "season": "2025"
+ },
+ {
+  "owner_id": 1,
+  "previous_owner_id": 3,
+  "roster_id": 3,
+  "round": 9,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 3,
+  "roster_id": 3,
+  "round": 10,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 4,
+  "roster_id": 4,
+  "round": 3,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 6,
+  "roster_id": 4,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 4,
+  "roster_id": 4,
+  "round": 12,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 4,
+  "roster_id": 4,
+  "round": 14,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 5,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 7,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 8,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 9,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 11,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 5,
+  "roster_id": 5,
+  "round": 12,
+  "season": "2025"
+ },
+ {
+  "owner_id": 8,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 1,
+  "season": "2025"
+ },
+ {
+  "owner_id": 8,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 2,
+  "season": "2025"
+ },
+ {
+  "owner_id": 8,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 3,
+  "season": "2025"
+ },
+ {
+  "owner_id": 8,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 8,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 8,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 7,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 8,
+  "season": "2025"
+ },
+ {
+  "owner_id": 3,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 10,
+  "season": "2025"
+ },
+ {
+  "owner_id": 4,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 12,
+  "season": "2025"
+ },
+ {
+  "owner_id": 4,
+  "previous_owner_id": 6,
+  "roster_id": 6,
+  "round": 14,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 7,
+  "roster_id": 7,
+  "round": 1,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 7,
+  "roster_id": 7,
+  "round": 2,
+  "season": "2025"
+ },
+ {
+  "owner_id": 10,
+  "previous_owner_id": 11,
+  "roster_id": 7,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 10,
+  "previous_owner_id": 11,
+  "roster_id": 7,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 7,
+  "roster_id": 7,
+  "round": 10,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 8,
+  "roster_id": 8,
+  "round": 1,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 8,
+  "roster_id": 8,
+  "round": 2,
+  "season": "2025"
+ },
+ {
+  "owner_id": 3,
+  "previous_owner_id": 6,
+  "roster_id": 8,
+  "round": 3,
+  "season": "2025"
+ },
+ {
+  "owner_id": 3,
+  "previous_owner_id": 6,
+  "roster_id": 8,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 9,
+  "previous_owner_id": 6,
+  "roster_id": 8,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 8,
+  "roster_id": 8,
+  "round": 7,
+  "season": "2025"
+ },
+ {
+  "owner_id": 2,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 2,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 5,
+  "season": "2025"
+ },
+ {
+  "owner_id": 6,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 7,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 9,
+  "season": "2025"
+ },
+ {
+  "owner_id": 2,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 11,
+  "season": "2025"
+ },
+ {
+  "owner_id": 5,
+  "previous_owner_id": 9,
+  "roster_id": 9,
+  "round": 12,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 10,
+  "roster_id": 10,
+  "round": 3,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 10,
+  "roster_id": 10,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 10,
+  "roster_id": 10,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 11,
+  "previous_owner_id": 10,
+  "roster_id": 10,
+  "round": 8,
+  "season": "2025"
+ },
+ {
+  "owner_id": 7,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 1,
+  "season": "2025"
+ },
+ {
+  "owner_id": 7,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 2,
+  "season": "2025"
+ },
+ {
+  "owner_id": 10,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 3,
+  "season": "2025"
+ },
+ {
+  "owner_id": 7,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 4,
+  "season": "2025"
+ },
+ {
+  "owner_id": 7,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 6,
+  "season": "2025"
+ },
+ {
+  "owner_id": 10,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 8,
+  "season": "2025"
+ },
+ {
+  "owner_id": 7,
+  "previous_owner_id": 11,
+  "roster_id": 11,
+  "round": 10,
+  "season": "2025"
+ }
+]

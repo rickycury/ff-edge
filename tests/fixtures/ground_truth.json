@@ -1,0 +1,28 @@
+{
+ "current_league_id": "1379937879198822401",
+ "draft_id": "1223393350082637824",
+ "my_actual_pick_numbers": [
+  8,
+  17,
+  32,
+  37,
+  60,
+  65,
+  82,
+  93,
+  106,
+  113,
+  132,
+  135,
+  152,
+  161,
+  176,
+  185
+ ],
+ "my_draft_slot": 8,
+ "my_roster_id": 5,
+ "my_user_id": "100000000000000001",
+ "note": "recorded by record_fixtures.py; identities are synthetic",
+ "previous_league_id": "1223393350070042624",
+ "traded_pick_count": 62
+}

@@ -1,0 +1,14 @@
+{
+ "_ground_truth": "ground_truth.json",
+ "draft/1223393350082637824": "draft.json",
+ "draft/1223393350082637824/picks": "draft_picks.json",
+ "league/1223393350070042624": "league_previous.json",
+ "league/1223393350070042624/drafts": "league_drafts.json",
+ "league/1223393350070042624/rosters": "league_rosters.json",
+ "league/1223393350070042624/traded_picks": "traded_picks.json",
+ "league/1223393350070042624/users": "league_users.json",
+ "league/1379937879198822401": "league_current.json",
+ "players/nfl": "players_nfl.json",
+ "projections/nfl/2026?season_type=regular&position[]=DEF&position[]=K&position[]=QB&position[]=RB&position[]=TE&position[]=WR&order_by=pts_ppr": "projections.json",
+ "user/manager_01": "user_me.json"
+}
